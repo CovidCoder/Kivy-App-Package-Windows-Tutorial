@@ -1,4 +1,4 @@
-#How To Package a Simple Kivy App on Windows (With Pictures)
+How To Package a Simple Kivy App on Windows (With Pictures)
 
 
 Requirements: Latest Kivy installed and PyInstaller 3.1+ (pip install pyinstaller or pip install --upgrade pyinstaller)
