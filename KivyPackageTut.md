@@ -4,7 +4,7 @@
 Requirements: 'Latest Kivy installed' and 'PyInstaller 3.1+' (pip install pyinstaller or pip install --upgrade pyinstaller)
 
 
-Step 1: Make a folder and call it whatever you want and put it anywhere except where your .py file is. I personally just called it exefolder and put next to the folder where my .py file is     [https://imgur.com/6gYstCY] (https://imgur.com/6gYstCY)
+Step 1: Make a folder and call it whatever you want and put it anywhere except where your .py file is. I personally just called it exefolder and put next to the folder where my .py file is     https://imgur.com/6gYstCY
 
 
 Step 2: Change the directory in your vscode shell (or whatever IDE you use) to the folder you just made. For me, I would type in my shell: cd C:\Users\Tyler\PycharmProjects\"YourFolderName"     https://imgur.com/2WDHWQi
