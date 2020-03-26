@@ -46,7 +46,7 @@
 * Step 13: Open it up and everything should be working fine!     https://imgur.com/skO01hv.jpg
 
 
-And that's it! Enjoy!
+  And that's it! Enjoy!
 
 
-Source: https://kivy.org/doc/stable/guide/packaging-windows.html#packaging-a-simple-app
+  Source: https://kivy.org/doc/stable/guide/packaging-windows.html#packaging-a-simple-app
