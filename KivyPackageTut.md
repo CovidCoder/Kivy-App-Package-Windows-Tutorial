@@ -34,7 +34,7 @@
 * Step 9: Save the file and close out of it. Lastly, go back into your shell and type: `python -m PyInstaller YourAppName.spec` and hit enter. Mine looks like: `python -m PyInstaller EbayApp.spec`     https://imgur.com/w3DMGF6.jpg
 
 
-* Step 10: At some point it should say: `WARNING: The output directory "YourDirectory" and ALL ITS CONTENTS will be REMOVED! Continue? (y/N)` This is totally fine. just press y then enter     https://imgur.com/N2TIBW8.jpg
+* Step 10: At some point it should say: `WARNING: The output directory "YourDirectory" and ALL ITS CONTENTS will be REMOVED! Continue? (y/N)` This is totally fine. Just press y then enter     https://imgur.com/N2TIBW8.jpg
 
 
 * Step 11: After it's done building, your file will be in the folder you made in `Step 1`. Mine was in: `C:\Users\Tyler\PycharmProjects\exefolder\dist\EbayApp`     https://imgur.com/UcqGH8T.jpg
