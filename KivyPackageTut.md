@@ -13,7 +13,7 @@
 * Step 3: Make a folder in the directory where your .py file is. I named mine kivyapp. Copy any files you used in your project into this folder. For me, I only have to copy my .py and .kv files     https://imgur.com/u8rscg3.jpg
 
 
-* Step 4a: (If you would like to add an icon to your application, skip this step.) Now in your shell, type: `python -m PyInstaller --name YourAppName -w TheDirectroyToYour.pyFile` and hit enter. For example mine would be: `python -m PyInstaller --name EbayApp -w C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\kiv.py` (If you want the command prompt to run with you exe the delete -w)     https://imgur.com/XMSm49M.jpg
+* Step 4a: (If you would like to add an icon to your application, skip this step.) Now in your shell, type: `python -m PyInstaller --name YourAppName -w TheDirectroyToYour.pyFile` and hit enter. For example mine would be: `python -m PyInstaller --name EbayApp -w C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\kiv.py` (If you want the command prompt to run with your exe then delete -w)     https://imgur.com/XMSm49M.jpg
 
 
 * Step 4b: To add an icon to your application, add a .ico file to the folder where the files you just copied are. (You can convert a picture into a .ico file at www.convertico.com.) Then in your shell type: `python -m PyInstaller --name YourAppName -w --icon TheDirectroyToYour.icoFile TheDirectroyToYour.pyFile` and hit enter. For example mine would be: `python -m PyInstaller --name EbayApp -w --icon C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\icon.ico C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\kiv.py` (If you want the command prompt to run with your exe then delete -w)     https://imgur.com/Tosto24.jpg
