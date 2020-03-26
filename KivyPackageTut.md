@@ -19,7 +19,7 @@
   Step 4b: To add an icon to your application, add a .ico file to the folder where the files you just copied are. (You can convert a picture into a .ico file at www.convertico.com.) Then in your shell type: `python -m PyInstaller --name YourAppName -w --icon TheDirectroyToYour.icoFile TheDirectoryToYour.pyFile` and hit enter. For example mine would be: `python -m PyInstaller --name EbayApp -w --icon C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\icon.ico C:\Users\Tyler\PycharmProjects\Giraffe\kivyapp\kiv.py` (If you want the command prompt to run with your exe then delete -w)     https://imgur.com/Tosto24.jpg
 
 
-* Step 5: After all that is done running in your shell, go in the folder you made in `step 1` and right click the .spec file and open it with notepad (or any other text editor)     https://imgur.com/9HSbWNr.jpg
+* Step 5: When that's done it should say `completed successfully`. Now go to the folder you made in `step 1` and right click the .spec file and open it with notepad (or any other text editor)     https://imgur.com/9HSbWNr.jpg
 
 
 * Step 6: When you open your .spec file, it should look something like this: https://imgur.com/GSY0GX5.jpg Now at the top in the empty space right above `block_cipher = None` add in: `from kivy_deps import sdl2, glew` https://imgur.com/35isH5h.jpg
