@@ -7,7 +7,7 @@
 * Step 1: Make a folder and call it whatever you want and put it anywhere except where your .py file is. I personally just called it exefolder and put it next to the folder where my .py file is     https://imgur.com/6gYstCY
 
 
-* Step 2: Change the directory in your vscode shell (or whatever IDE you use) to the folder you just made. For me, I would type in my shell: `cd C:\Users\Tyler\PycharmProjects\exefolder`     https://imgur.com/2WDHWQi
+* Step 2: Change the directory of your vscode shell (or whatever IDE you use) to the folder you just made. For me, I would type in my shell: `cd C:\Users\Tyler\PycharmProjects\exefolder`     https://imgur.com/2WDHWQi
 
 
 * Step 3: Make a folder in the directory where your .py file is. I named mine kivyapp. Copy any files you used in your project into this folder. For me, I only have to copy my .py and .kv files     https://imgur.com/u8rscg3
