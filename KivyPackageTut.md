@@ -40,7 +40,7 @@
 * Step 11: After it's done building, your .exe file will be in the folder you made in `Step 1`. Mine was in: `C:\Users\Tyler\PycharmProjects\exefolder\dist\EbayApp`     https://imgur.com/UcqGH8T.jpg
 
 
-* Step 12: (Optional) You can create a shortcut and move it wherever you want. I cleaned up the folder a bit so it's easier for others to use the application. Before: https://imgur.com/9ywOD7E.jpg     After: https://imgur.com/MahWtV3.jpg
+* Step 12: (Optional) You can create a shortcut and move it wherever you want. I cleaned up the folder a bit so it's easier for others to find the .exe. Before: https://imgur.com/9ywOD7E.jpg     After: https://imgur.com/MahWtV3.jpg
 
 
 * Step 13: Open it up and everything should be working fine!     https://imgur.com/skO01hv.jpg
