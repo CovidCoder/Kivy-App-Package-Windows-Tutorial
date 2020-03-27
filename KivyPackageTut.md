@@ -37,7 +37,7 @@
 * Step 10: At some point it should say: `WARNING: The output directory "YourDirectory" and ALL ITS CONTENTS will be REMOVED! Continue? (y/N)` This is totally fine. Just press y then enter     https://imgur.com/N2TIBW8.jpg
 
 
-* Step 11: After it's done building, your file will be in the folder you made in `Step 1`. Mine was in: `C:\Users\Tyler\PycharmProjects\exefolder\dist\EbayApp`     https://imgur.com/UcqGH8T.jpg
+* Step 11: After it's done building, your .exe file will be in the folder you made in `Step 1`. Mine was in: `C:\Users\Tyler\PycharmProjects\exefolder\dist\EbayApp`     https://imgur.com/UcqGH8T.jpg
 
 
 * Step 12: (Optional) You can create a shortcut and move it wherever you want. I cleaned up the folder a bit so it's easier for others to use the application. Before: https://imgur.com/9ywOD7E.jpg     After: https://imgur.com/MahWtV3.jpg
