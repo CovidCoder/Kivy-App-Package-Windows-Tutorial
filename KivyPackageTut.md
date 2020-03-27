@@ -25,7 +25,7 @@
 * Step 6: When you open your .spec file, it should look something like this: https://imgur.com/GSY0GX5.jpg Now at the top in the empty space right above `block_cipher = None` add in: `from kivy_deps import sdl2, glew` https://imgur.com/35isH5h.jpg
 
 
-* Step 7: Now find the `coll = COLLECT(exe,` line and add: `Tree('ThePathToTheFolderYouMadeInStep3'),` to it. Mine looks like: `Tree('C:\\Users\\Tyler\\PycharmProjects\\Giraffe\\kivyapp\\'),`     https://imgur.com/2AL1Bjv.jpg
+* Step 7: Now find the `coll = COLLECT(exe,` line and add: `Tree('ThePathToTheFolderYouMadeInStep3'),` to it. Mine looks like: `coll = COLLECT(exe, Tree('C:\\Users\\Tyler\\PycharmProjects\\Giraffe\\kivyapp\\'),`     https://imgur.com/2AL1Bjv.jpg
 
 
 * Step 8: Below that, look for the `a.datas,` line and below it add: `*[Tree(p) for p in (sdl2.dep_bins + glew.dep_bins)],` so that it's in between `a.datas,` and `strip=False,`     https://imgur.com/M9K3iv3.jpg
