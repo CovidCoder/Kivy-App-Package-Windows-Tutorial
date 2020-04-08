@@ -1,7 +1,7 @@
 # How To Package a Simple Kivy App on Windows (With Pictures)
 
 
-* Requirements: Latest Kivy installed and PyInstaller 3.1+ (`pip install pyinstaller` or `pip install --upgrade pyinstaller`) or if you're having any issues with opening your app uninstall PyInstaller and install the developer version (`pip uninstall pyinstaller` then `pip install https://github.com/pyinstaller/pyinstaller/archive/develop.zip`)
+* Requirements: Latest Kivy installed and PyInstaller 3.1+ (`pip install pyinstaller` or `pip install --upgrade pyinstaller`) if you're having any issues with opening your app uninstall PyInstaller and install the developer version (`pip uninstall pyinstaller` then `pip install https://github.com/pyinstaller/pyinstaller/archive/develop.zip`)
 
 
 * Step 1: Make a folder and call it whatever you want and put it anywhere except where your .py file is. I personally just called it exefolder and put it next to the folder where my .py file is     https://imgur.com/6gYstCY.jpg
